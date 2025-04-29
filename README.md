@@ -1,2 +1,2 @@
 # marketplace-angular19
-Un marketplace construido con angular 19 
+Marketplace construido con angular 19 
